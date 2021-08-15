@@ -1,0 +1,33 @@
+--- 
+title: "Guía Metodológica Para la Construcción de Indicadores de Procesos"
+author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br> </br>  <a href= 'http://estadisticas.unal.edu.co/' target='blank'> Oficina Nacional de Estadística</a> </br> <a href= 'http://siga.unal.edu.co/index.php/siga' target='blank'> Sistema Integrado de Gestión Académica Administrativa y Ambiental - SIGA</a></br>"
+date: "`r format(Sys.Date(), 'Última actualización: %d de %B de %Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+options(
+  htmltools.dir.version = FALSE, formatR.indent = 2,
+  width = 55, digits = 4, warnPartialMatchAttr = FALSE, warnPartialMatchDollar = FALSE
+)
+local({
+  r = getOption('repos')
+  if (!length(r) || identical(unname(r['CRAN']), '@CRAN@'))
+    r['CRAN'] = 'https://cran.rstudio.com' 
+  options(repos = r)
+})
+lapply(c('DT', 'citr', 'formatR', 'svglite'), function(pkg) {
+  if (system.file(package = pkg) == '') install.packages(pkg)
+})
+```
+
+# Portada {-}
+
+```{r fig.align='center', out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Portada.jpg')
+```
