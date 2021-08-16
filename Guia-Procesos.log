@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.15)  16 AUG 2021 11:57
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.15)  16 AUG 2021 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,19 +990,35 @@ Overfull \hbox (314.9296pt too wide) in paragraph at lines 90--90
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
-)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 22.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 22.
+[3])
 \tf@toc=\write4
 \openout4 = `Guia-Procesos.toc'.
 
-[3] [4
-
-]
+[4]
 File: Imagenes/Portada.jpg Graphic file (type bmp)
 <Imagenes/Portada.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[5]
+[5
+
+]
 Overfull \vbox (143.14743pt too high) has occurred while \output is active []
 
 [6]
@@ -1025,23 +1041,6 @@ Underfull \vbox (badness 1286) has occurred while \output is active []
 [9
 
 ] [10] [11] [12]
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 258.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 258.
-
 Overfull \hbox (4898.81187pt too wide) in paragraph at lines 258--277
  [][] 
  []
@@ -1051,7 +1050,329 @@ Overfull \hbox (6888.67221pt too wide) in paragraph at lines 286--315
  [][] 
  []
 
-(./Guia-Procesos.bbl [13] [14])
+[13] [14]
+Capítulo 3.
+[15
+
+]
+File: Imagenes/figura_2.png Graphic file (type bmp)
+<Imagenes/figura_2.png>
+
+Overfull \hbox (95.84946pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CAPÍTULO 3.  MODELO DE GESTIÓN DE LA INFORMAC
+IÓN EN LA UNIVERSIDAD NACIONAL DE COLOMBIA
+ []
+
+[16] [17]
+Overfull \hbox (95.84946pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CAPÍTULO 3.  MODELO DE GESTIÓN DE LA INFORMAC
+IÓN EN LA UNIVERSIDAD NACIONAL DE COLOMBIA
+ []
+
+[18
+
+]
+Capítulo 4.
+File: Imagenes/figura_3.png Graphic file (type bmp)
+<Imagenes/figura_3.png>
+
+Underfull \hbox (badness 2245) in paragraph at lines 358--358
+\TU/lmr/bx/n/14.4 observables y no observables determinantes para la
+ []
+
+[19]
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[20]
+Overfull \hbox (299.71619pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.1.  ENTENDIMIENTO DEL PROCESO E IDENTIFICACIÓN DE VARIABLES O
+BSERVABLES Y NO OBSERVABLES DETERMINANTES PARA LA MEDICIÓN \TU/lmr/m/n/10 21
+ []
+
+[21]
+Underfull \hbox (badness 3942) in paragraph at lines 395--397
+[]\TU/lmr/m/it/10 Calidad: \TU/lmr/m/n/10 Número de devoluciones, reprocesos, a
+creditación de programas curriculares,
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 399--401
+[]\TU/lmr/m/it/10 Constructos o conceptos: \TU/lmr/m/n/10 Competencia del talen
+to humano, comunicación organizacional,
+ []
+
+File: Imagenes/figura_4.png Graphic file (type bmp)
+<Imagenes/figura_4.png>
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[22]
+Overfull \hbox (299.71619pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.1.  ENTENDIMIENTO DEL PROCESO E IDENTIFICACIÓN DE VARIABLES O
+BSERVABLES Y NO OBSERVABLES DETERMINANTES PARA LA MEDICIÓN \TU/lmr/m/n/10 23
+ []
+
+[23]
+File: Imagenes/figura_5.png Graphic file (type bmp)
+<Imagenes/figura_5.png>
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[24]
+File: Imagenes/figura_6.png Graphic file (type bmp)
+<Imagenes/figura_6.png>
+File: Imagenes/figura_7.png Graphic file (type bmp)
+<Imagenes/figura_7.png>
+
+Overfull \hbox (299.71619pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.1.  ENTENDIMIENTO DEL PROCESO E IDENTIFICACIÓN DE VARIABLES O
+BSERVABLES Y NO OBSERVABLES DETERMINANTES PARA LA MEDICIÓN \TU/lmr/m/n/10 25
+ []
+
+[25]
+File: Imagenes/figura_8.png Graphic file (type bmp)
+<Imagenes/figura_8.png>
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[26]
+File: Imagenes/figura_9.png Graphic file (type bmp)
+<Imagenes/figura_9.png>
+File: Imagenes/texto.png Graphic file (type bmp)
+<Imagenes/texto.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (299.71619pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.1.  ENTENDIMIENTO DEL PROCESO E IDENTIFICACIÓN DE VARIABLES O
+BSERVABLES Y NO OBSERVABLES DETERMINANTES PARA LA MEDICIÓN \TU/lmr/m/n/10 27
+ []
+
+[27]
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[28]
+File: Imagenes/figura_10.png Graphic file (type bmp)
+<Imagenes/figura_10.png>
+[29]
+File: Imagenes/texto_1.png Graphic file (type bmp)
+<Imagenes/texto_1.png>
+File: Imagenes/figura_12.png Graphic file (type bmp)
+<Imagenes/figura_12.png>
+File: Imagenes/texto_2.png Graphic file (type bmp)
+<Imagenes/texto_2.png>
+File: Imagenes/figura_13.png Graphic file (type bmp)
+<Imagenes/figura_13.png>
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[30]
+File: Imagenes/figura_14.png Graphic file (type bmp)
+<Imagenes/figura_14.png>
+File: Imagenes/texto_3.png Graphic file (type bmp)
+<Imagenes/texto_3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[31]
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 32 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[32] [33]
+File: Imagenes/figura_15.png Graphic file (type bmp)
+<Imagenes/figura_15.png>
+File: Imagenes/figura_16.png Graphic file (type bmp)
+<Imagenes/figura_16.png>
+File: Imagenes/figura_17.png Graphic file (type bmp)
+<Imagenes/figura_17.png>
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 34 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[34] [35]
+Underfull \hbox (badness 1668) in paragraph at lines 644--645
+[]\TU/lmr/m/n/10 Registros de tipo administrativo que se pueden encontrar en si
+stemas de información
+ []
+
+
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 36 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[36] [37]
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 38 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[38]
+File: Imagenes/texto_5.png Graphic file (type bmp)
+<Imagenes/texto_5.png>
+[39]
+Overfull \hbox (141.64726pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 40 \TU/lmr/m/sl/10 CAPÍTULO 4.  METODOLOGÍA PARA LA DEFINICIÓN D
+E INDICADORES DE GESTIÓN EN LOS PROCESOS DE LA UNAL
+ []
+
+[40
+
+]
+Capítulo 5.
+File: Imagenes/figura_17a.png Graphic file (type bmp)
+<Imagenes/figura_17a.png>
+[41]
+File: Imagenes/figura_18.png Graphic file (type bmp)
+<Imagenes/figura_18.png>
+[42] [43]
+File: Imagenes/texto_6.png Graphic file (type bmp)
+<Imagenes/texto_6.png>
+[44]
+Capítulo 6.
+File: Imagenes/figura_19.png Graphic file (type bmp)
+<Imagenes/figura_19.png>
+File: Imagenes/texto_7.png Graphic file (type bmp)
+<Imagenes/texto_7.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[45
+
+]
+Overfull \hbox (57.67055pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CAPÍTULO 6.  MEDICIÓN DE LOS INDICADORES DE G
+ESTIÓN DE ACUERDO CON SU PERIODICIDAD
+ []
+
+[46]
+Capítulo 7.
+[47
+
+] [48]
+File: Imagenes/texto_8.png Graphic file (type bmp)
+<Imagenes/texto_8.png>
+[49] [50
+
+]
+Capítulo 8.
+[51]
+File: Imagenes/figura_20.png Graphic file (type bmp)
+<Imagenes/figura_20.png>
+[52]
+File: Imagenes/texto_9.png Graphic file (type bmp)
+<Imagenes/texto_9.png>
+
+Overfull \hbox (6.45058pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 8.1.  MONITOREO DEL SISTEMA DE INDICADORES DE GESTIÓN DE LOS PR
+OCESOS UNAL \TU/lmr/m/n/10 53
+ []
+
+[53] [54
+
+]
+Capítulo 9.
+File: Imagenes/figura_21.png Graphic file (type bmp)
+<Imagenes/figura_21.png>
+[55]
+Underfull \hbox (badness 1968) in paragraph at lines 893--895
+[]\TU/lmr/bx/n/10 Indicadores nivel nacional:\TU/lmr/m/n/10 Consisten en indica
+dores que son formulados y medidos
+ []
+
+
+Overfull \hbox (116.97838pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 56 \TU/lmr/m/sl/10 CAPÍTULO 9.  DISEÑO DE LA BATERÍA (TABLERO DE
+ CONTROL) DE INDICADORES DE GESTIÓN POR PROCESO
+ []
+
+[56]
+Capítulo 10.
+File: Imagenes/figura_22.png Graphic file (type bmp)
+<Imagenes/figura_22.png>
+[57
+
+]
+Overfull \hbox (85.45056pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 58 \TU/lmr/m/sl/10 CAPÍTULO 10.  ESQUEMA DE COMUNICACIÓN FRENTE 
+A LA DEFINICIÓN DE INDICADORES DE GESTIÓN
+ []
+
+[58] [59]
+Overfull \hbox (85.45056pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 60 \TU/lmr/m/sl/10 CAPÍTULO 10.  ESQUEMA DE COMUNICACIÓN FRENTE 
+A LA DEFINICIÓN DE INDICADORES DE GESTIÓN
+ []
+
+[60
+
+]
+Capítulo 11.
+[61] [62]
+Capítulo 12.
+
+Overfull \hbox (7.49403pt too wide) in paragraph at lines 936--936
+[]\TU/lmr/bx/n/12 Anexo 1: Lineamientos para la priorización de variables deter
+minantes
+ []
+
+
+Overfull \hbox (188.22159pt too wide) in paragraph at lines 944--959
+ [][] 
+ []
+
+
+Overfull \hbox (76.9416pt too wide) in paragraph at lines 965--980
+ [][] 
+ []
+
+
+Overfull \hbox (146.6416pt too wide) in paragraph at lines 986--1001
+ [][] 
+ []
+
+File: Imagenes/texto_10.png Graphic file (type bmp)
+<Imagenes/texto_10.png>
+
+Overfull \hbox (202.62158pt too wide) in paragraph at lines 1020--1031
+ [][] 
+ []
+
+[63
+
+] [64] [65]
+Overfull \hbox (202.62158pt too wide) in paragraph at lines 1059--1070
+ [][] 
+ []
+
+[66] [67] [68
+
+] (./Guia-Procesos.bbl [69] [70
+
+])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1087,23 +1408,21 @@ braces):
 >  {spanish/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {spanish/totalhyphenmin}  =>  {5}.
-[15
-
-] (./Guia-Procesos.aux
+[71] (./Guia-Procesos.aux
 LaTeX Info: Redefining \rmfamily on input line 20.
 LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
 Package rerunfilecheck Info: File `Guia-Procesos.out' has not changed.
-(rerunfilecheck)             Checksum: 870421856A3937C31924AA60DA4B1C8B;293.
+(rerunfilecheck)             Checksum: 2A5CA29A3C912B34AE78AC72581E9817;5316.
  ) 
 Here is how much of TeX's memory you used:
- 18919 strings out of 478475
- 342764 string characters out of 5857860
- 871485 words of memory out of 5000000
- 38937 multiletter control sequences out of 15000+600000
- 409865 words of font info for 78 fonts, out of 8000000 for 9000
+ 19563 strings out of 478475
+ 359521 string characters out of 5857860
+ 877984 words of memory out of 5000000
+ 39542 multiletter control sequences out of 15000+600000
+ 409905 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,8n,120p,1578b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,8n,120p,1578b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guia-Procesos.pdf (15 pages).
+Output written on Guia-Procesos.pdf (71 pages).
